@@ -1,7 +1,7 @@
 {
-  "name": "Astro-MD V2",
-  "description": "Sinhala MultiDevice Bot Created By VihangaYT",
-  "repository": "https://github.com/vihangayt0/Astro-MD-V2",
+  "name": "♥️🍼✨𝚀𝙴𝙴𝙽 𝚃𝙷 𝙼𝙳✨🍼♥️",
+  "description": "Sinhala MultiDevice Bot Created By LAKIYA",
+  "repository": "https://github.com/Lakminaudaya/Astro-MD-V2",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
@@ -14,7 +14,7 @@
     "INBOX_BL_MSG" :{
     "description" : "Only Group And Inbox Block Massage",
     "required" : true,
-  "value" : "*Inbox Not Allowed"
+  "value" : "*♥️🍼✨Inbox Not Allowed✨🍼♥️*"
     },
     "ANTI_BAD" :{
     "description" : "Remove Bad Words Senders",
@@ -44,57 +44,57 @@
 "ALIVE_LOGO" :{
     "description" : "alive logo",
     "required" : true,
-  "value" : "https://digitalify.pk/wp-content/uploads/2021/11/whatsapp_multidevice_support.webp"
+  "value" : "https://i.ibb.co/D9QrWMY/b58964e3eabd87a0aece6b93e33f9055-1.png"
 },
 "FOOTER" :{
     "description" : "Footer Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "✨♥️🧸🍼𝘲ꫀꫀꪀ 𝓽ꫝ ꪑᦔ ꪑ𝓲ꪀꫀ🍼🧸♥️✨"
 },
 "OWNER_NAME" :{
     "description" : "Owner Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "♫_𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ϟ⓿"
 },
     "OWNER_NUMBER" :{
     "description" : "Owner Number",
     "required" : true,
-  "value" : "+44 7441 466940"
+  "value" : "+94770075694"
 },
     "SONG_DOWN" :{
     "description" : "Song downloading txt",
     "required" : true,
-  "value" : "*📥 ඔබේ ගීතය Download කරමින් පවතී...*"
+  "value" : "*ඔබේ ගීතය Download කරමින් පවතී...✨🍼♥️*"
 },
         "SONG_UP" :{
     "description" : "Song uploading txt",
     "required" : true,
-  "value" : "*📤 ඔබේ ගීතය Upload කරමින් පවතී...*"
+  "value" : "*ඔබේ ගීතය Upload කරමින් පවතී...✨🍼♥️*"
 },
             "VIDEO_DOWN" :{
     "description" : "video down txt",
     "required" : true,
-  "value" : "*📥 ඔබේ වීඩියෝව Download කරමින් පවතී...*"
+  "value" : "*ඔබේ වීඩියෝව Download කරමින් පවතී...✨🍼♥️*"
 },
                 "VIDEO_UP" :{
     "description" : "video up txt",
     "required" : true,
-  "value" : "*📤 ඔබේ වීඩියෝව Upload කරමින් පවතී...*"
+  "value" : "*ඔබේ වීඩියෝව Upload කරමින් පවතී...✨🍼♥️*"
 },
                         "FILE_DOWN" :{
     "description" : "video up txt",
     "required" : true,
-  "value" : "*📥Downloading your file...*"
+  "value" : "*Downloading your file...✨🍼♥️*"
 },
                     "FILE_UP" :{
     "description" : "video up txt",
     "required" : true,
-  "value" : "*📤Uploading your file...*"
+  "value" : "*Uploading your file...✨🍼♥️*"
 },
                         "CAPTION" :{
     "description" : " caption",
     "required" : true,
-  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝙰𝚂𝚃𝚁𝙾-𝙼𝙳*"
+  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝚀𝙴𝙴𝙽 𝚃𝙷 𝙼𝙳*"
 },
                         "BUTTON" :{
     "description" : "alive button txt",
@@ -104,7 +104,7 @@
                             "BUTTONURL" :{
     "description" : "alive button url",
     "required" : true,
-  "value" : "youtube.com/hjwn7skv"
+  "value" : "https://youtube.com/channel/UCyilpBX9ojT1gSUBpLdeaNg"
 }, 
                            "onlygroup" :{
     "description" : "onlygroup",
