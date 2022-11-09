@@ -6,7 +6,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@SamPandey001/Vihanga?output%20only=1&lite=1#index.js)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vihangayt0/Astro-MD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Lakminaudaya/QEEN-TH-MD-V2.git)
 
 ---------------------------------   
 
@@ -27,6 +27,10 @@ https://chat.whatsapp.com/Kz7tvY9P7taDl50rnANoN3
 # 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 𝙲𝙷𝙰𝙽𝙴𝙻...
 
 https://youtube.com/channel/UCyilpBX9ojT1gSUBpLdeaNg
+
+𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 𝙳𝙾𝙽𝚃 𝙲𝙰𝙻𝙻...
+
+https://api.whatsapp.com/send?phone=+94770075694
 
 
 
