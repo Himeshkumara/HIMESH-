@@ -1,4 +1,4 @@
-# ASTRO-MD
+# 𝚀𝙴𝙴𝙽 𝚃𝙷 𝙼𝙳🍼♥️
 
    
   ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
@@ -10,7 +10,7 @@
 
 ---------------------------------   
 
- ###  Developer : Vihanga-YT
+ ###  Developer : 𝙻𝙰𝙺𝙸𝚈𝙰 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻
 
 ## Thanks To
 ##### ◉[@adiwajshing](https://github.com/adiwajshing/) for coded.
@@ -19,3 +19,16 @@
 ##### ◉[@sanuwaofficial](https://github.com/sanuwaofficial) for apk downloader and help. 
 ##### ◉[@edm-official](https://github.com/edm-official) for base and help.
 ##### ◉[@DarkMakerofc](https://github.com/DarkMakerofc) for help. 
+
+# 𝚓𝚘𝚒𝚗 𝙶𝚁𝙾𝚄𝙿...
+
+https://chat.whatsapp.com/Kz7tvY9P7taDl50rnANoN3
+
+# 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 𝙲𝙷𝙰𝙽𝙴𝙻...
+
+https://youtube.com/channel/UCyilpBX9ojT1gSUBpLdeaNg
+
+
+
+
+𝚈𝙷𝙰𝙽𝙺 𝚈𝙾𝚄....!!♥️🍼✨
