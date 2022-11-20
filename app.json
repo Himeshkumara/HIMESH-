@@ -1,6 +1,6 @@
 {
-  "name": "♥️🍼✨𝚀𝙴𝙴𝙽 𝚃𝙷 𝙼𝙳✨🍼♥️",
-  "description": "Sinhala MultiDevice Bot Created By LAKIYA",
+  "name": "♥️🍼✨𝗤𝗘𝗘𝗡 සුදූ දෝණි🥺✨🍼♥️",
+  "description": "𝘁𝗶𝗸 𝘁𝗼𝗸 𝘀𝗼𝗼𝗻 𝗰𝗿𝗶𝘆𝗲𝘁𝗮𝗿𝗮 ❤𝗛𝗜𝗠𝗘𝗦𝗛😇",
   "repository": "https://github.com/Lakminaudaya/Astro-MD-V2",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
@@ -49,17 +49,17 @@
 "FOOTER" :{
     "description" : "Footer Name",
     "required" : true,
-  "value" : "✨♥️🧸🍼𝘲ꫀꫀꪀ 𝓽ꫝ ꪑᦔ ꪑ𝓲ꪀꫀ🍼🧸♥️✨"
+  "value" : "✨♥️🧸🍼𝗤𝗘𝗘𝗡 සුදූ දෝණි🥺🍼🧸♥️✨"
 },
 "OWNER_NAME" :{
     "description" : "Owner Name",
     "required" : true,
-  "value" : "♫_𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ϟ⓿"
+  "value" : "♫_𝗧𝗜𝗞 𝗧𝗢𝗞 𝗦𝗢𝗢𝗡 𝗛𝗜𝗠𝗘𝗦𝗛😇 ϟ⓿"
 },
     "OWNER_NUMBER" :{
     "description" : "Owner Number",
     "required" : true,
-  "value" : "+94770075694"
+  "value" : "+94765418376"
 },
     "SONG_DOWN" :{
     "description" : "Song downloading txt",
@@ -94,7 +94,7 @@
                         "CAPTION" :{
     "description" : " caption",
     "required" : true,
-  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝚀𝙴𝙴𝙽 𝚃𝙷 𝙼𝙳*"
+  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝗤𝗘𝗘𝗡 සුදූ දෝණි🥺*"
 },
                         "BUTTON" :{
     "description" : "alive button txt",
